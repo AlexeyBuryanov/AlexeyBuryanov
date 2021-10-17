@@ -8,6 +8,12 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyBuryanov&layout=compact"/></a>
 </p>
 
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/AlexeyBuryanov/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=AlexeyBuryanov&color=DE002D">
+   </a>
+</div>
+
 <!--
 **AlexeyBuryanov/AlexeyBuryanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
