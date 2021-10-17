@@ -10,7 +10,7 @@
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AlexeyBuryanov/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=AlexeyBuryanov&color=DE002D">
+       <img width="100px" src="https://komarev.com/ghpvc/?username=AlexeyBuryanov&style=flat-square">
    </a>
 </div>
 
