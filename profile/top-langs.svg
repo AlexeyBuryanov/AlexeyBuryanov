@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">AlexeyBuryanov GitHub Top Languages</title>
+  <desc id="desc">Placeholder card shown until the README stats workflow regenerates the latest top languages card.</desc>
+  <rect width="495" height="195" rx="8" fill="#312e5a"/>
+  <text x="24" y="42" fill="#ffde59" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Most Used Languages</text>
+  <text x="24" y="92" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16">Refreshing via GitHub Actions</text>
+  <text x="24" y="124" fill="#d0c9ff" font-family="Segoe UI, Arial, sans-serif" font-size="13">A scheduled workflow will regenerate this SVG and replace this placeholder.</text>
+  <text x="24" y="150" fill="#d0c9ff" font-family="Segoe UI, Arial, sans-serif" font-size="13">That avoids relying on the shared public stats service.</text>
+</svg>
