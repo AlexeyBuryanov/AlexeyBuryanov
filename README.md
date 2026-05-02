@@ -1,8 +1,6 @@
 ### Hi there 👋
 ---
 
-## GitHub Stats
-
 <div align="center">
    <a href="https://github.com/AlexeyBuryanov">
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexeyBuryanov&theme=github_dark" alt="AlexeyBuryanov's GitHub Stats" />
