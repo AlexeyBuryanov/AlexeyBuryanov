@@ -1,12 +1,10 @@
 ### Hi there 👋
 ---
 
-## GitHub Stats
-
 <div align="center">
    <a href="https://github.com/AlexeyBuryanov">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexeyBuryanov&show_icons=true&theme=shades-of-purple" alt="AlexeyBuryanov's GitHub Stats" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyBuryanov&theme=shades-of-purple&layout=compact" alt="AlexeyBuryanov GitHub Top Languages" />
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexeyBuryanov&theme=github_dark" alt="AlexeyBuryanov's GitHub Stats" />
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexeyBuryanov&theme=github_dark" alt="AlexeyBuryanov GitHub Top Languages" />
    </a>
 </div>
 
