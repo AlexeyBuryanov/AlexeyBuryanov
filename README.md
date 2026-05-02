@@ -6,7 +6,7 @@
 <div align="center">
    <a href="https://github.com/AlexeyBuryanov">
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexeyBuryanov&theme=github_dark" alt="AlexeyBuryanov's GitHub Stats" />
-      <img height="180em" src="https://github-readme-language-stats.vercel.app/api?username=AlexeyBuryanov&theme=github_dark&layout=compact&show_percent=true" alt="AlexeyBuryanov GitHub Top Languages" />
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexeyBuryanov&theme=github_dark" alt="AlexeyBuryanov GitHub Top Languages" />
    </a>
 </div>
 
